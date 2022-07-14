@@ -8,7 +8,7 @@ int main(){
             std::cout << "The smallest multiple of all the numbers from 1 to 20 is: " << N << std::endl;
             break;
         }
-        N = N + 2;
+        N = N + 10;
     }
 }
 
